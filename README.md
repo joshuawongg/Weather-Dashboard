@@ -20,6 +20,6 @@ THEN I am again presented with current and future conditions for that city
 
 ## Screenshot
 
-![Screenshot 2023-09-09 at 8 44 28 PM](https://github.com/joshuawongg/Weather-Dashboard/assets/103795053/568c2bd6-632d-41f8-b55e-d485f0c28480)
+![image](https://github.com/joshuawongg/Weather-Dashboard/assets/103795053/51be0fb1-9c1b-4aa4-8355-b0a0c8b313ff)
 
 Link to application: https://joshuawongg.github.io/Weather-Dashboard/
