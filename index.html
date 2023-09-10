@@ -1,0 +1,36 @@
+<!--index.html-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather Dashboard</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Weather Dashboard</h1>
+    </header>
+    <main>
+        <form id="search-form">
+            <label for="city-input">Enter City:</label>
+            <input type="text" id="city-input" name="city-input" required>
+            <button type="submit">Search</button>
+        </form>
+        <div id="search-history">
+            <h2>Search History</h2>
+            <ul></ul>
+        </div>
+        <div id="current-weather">
+            <h2>Current Weather</h2>
+            <div id="current-weather-container"></div>
+        </div>
+        <div id="forecast">
+            <h2>5-Day Forecast</h2>
+            <div id="forecast-container"></div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
+
